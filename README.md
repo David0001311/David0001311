@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm David Rashidi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Building+Autonomous+Cars+with+Team+Storm;Bridging+Hardware+%26+Software;ROS+2+%7C+Microcontrollers+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Building+Autonomous+Cars;Bridging+Hardware+%26+Software;ROS+2+%7C+Microcontrollers+%7C+Computer+Vision" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <br>
 
-<h3 align="center">⚙️ My Tech Stack</h3>
+<h3 align="center">⚙️ My Tech EXP</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Altium_Designer-A59B6B?style=flat-square&logo=altium&logoColor=white" alt="Altium" />
   <img src="https://img.shields.io/badge/SolidWorks-E32526?style=flat-square&logo=dassaultsyst%C3%A8mes&logoColor=white" alt="SolidWorks" />
